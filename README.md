@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vkuznetsov83
+- 👋 Hi, I’m Vadim
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
